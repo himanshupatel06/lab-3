@@ -1,0 +1,16 @@
+{
+  "name": "lab-3",
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "https://github.com/himanshupatel06/lab-3",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/Scripts/lib",
+    "test",
+    "tests"
+  ]
+}
